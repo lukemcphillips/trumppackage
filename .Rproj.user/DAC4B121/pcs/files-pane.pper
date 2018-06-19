@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/TweetBase",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
